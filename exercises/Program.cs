@@ -31,7 +31,7 @@ class Program
                 Console.WriteLine();
             }
 
-            int size = 5;
+            int size = Input("Введите размер массива: ");
             int[] num = new int[size];
             FillArray(num);
             Print(num);
@@ -68,7 +68,7 @@ class Program
             }
 
 
-            int size = 4;
+            int size = Input("Введите размер массива: ");
             int[] num = new int[size];
             int sum = 0;
             FillArray(num);
@@ -100,7 +100,7 @@ class Program
                 Console.WriteLine();
             }
 
-            int size = 4;
+            int size = Input("Введите размер массива: ");
             double[] num = new double[size];
             double max = 0;
             double min = 0;

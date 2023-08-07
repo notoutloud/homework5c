@@ -1,0 +1,15 @@
+/Users/kirillchukanov/Documents/homework5/exercises6/bin/Debug/net7.0/exercises6
+/Users/kirillchukanov/Documents/homework5/exercises6/bin/Debug/net7.0/exercises6.deps.json
+/Users/kirillchukanov/Documents/homework5/exercises6/bin/Debug/net7.0/exercises6.runtimeconfig.json
+/Users/kirillchukanov/Documents/homework5/exercises6/bin/Debug/net7.0/exercises6.dll
+/Users/kirillchukanov/Documents/homework5/exercises6/bin/Debug/net7.0/exercises6.pdb
+/Users/kirillchukanov/Documents/homework5/exercises6/obj/Debug/net7.0/exercises6.csproj.AssemblyReference.cache
+/Users/kirillchukanov/Documents/homework5/exercises6/obj/Debug/net7.0/exercises6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kirillchukanov/Documents/homework5/exercises6/obj/Debug/net7.0/exercises6.AssemblyInfoInputs.cache
+/Users/kirillchukanov/Documents/homework5/exercises6/obj/Debug/net7.0/exercises6.AssemblyInfo.cs
+/Users/kirillchukanov/Documents/homework5/exercises6/obj/Debug/net7.0/exercises6.csproj.CoreCompileInputs.cache
+/Users/kirillchukanov/Documents/homework5/exercises6/obj/Debug/net7.0/exercises6.dll
+/Users/kirillchukanov/Documents/homework5/exercises6/obj/Debug/net7.0/refint/exercises6.dll
+/Users/kirillchukanov/Documents/homework5/exercises6/obj/Debug/net7.0/exercises6.pdb
+/Users/kirillchukanov/Documents/homework5/exercises6/obj/Debug/net7.0/exercises6.genruntimeconfig.cache
+/Users/kirillchukanov/Documents/homework5/exercises6/obj/Debug/net7.0/ref/exercises6.dll

@@ -10,63 +10,6 @@ class Program
             return Convert.ToInt32(Console.ReadLine());
         }
 
-        void PrintArray(int[,] matr)
-        {
-            for (int i = 0; i < matr.GetLength(0); i++)
-            {
-                for (int j = 0; j < matr.GetLength(1); j++)
-                {
-                    Console.Write($"{matr[i, j]}\t ");
-                }
-                Console.WriteLine();
-            }
-        }
-
-        void FillArray(int[,] matr)
-        {
-            Random rnd = new Random();
-            for (int i = 0; i < matr.GetLength(0); i++)
-            {
-                for (int j = 0; j < matr.GetLength(1); j++)
-                {
-                    matr[i, j] = rnd.Next(1, 10);
-                }
-            }
-        }
-
-        void Recursion(int counter, int number)
-        {
-            if (counter > number) return;
-            Console.WriteLine(counter);
-            counter++;
-            Recursion(counter, number);
-        }
-
-
-
-        // int num = Input("Введите: ");
-        // int counter = 1;
-        // while (counter <= num)
-        // {
-        //     Console.WriteLine(counter);
-        //     counter++;
-        // }
-
-        // int counter = Input("1 число ");
-        // int number = Input("2 число ");
-        // Recursion(number, counter);
-
-        // void Recursion1(int counter, int number)
-        // {
-        //     if (counter > number) return;
-        //     if (counter % 3 == 0)
-        //         Console.WriteLine(counter);
-        //     Recursion(counter + 1, number);
-        // }
-
-
-
-
         void Task64()
         {
             void Recursion1(int counter, int number)
@@ -115,7 +58,6 @@ class Program
             int func = Recursion68(m, n);
             Console.WriteLine(func);
         }
-
 
         int tasks = Input("Введите номер задачи (64, 66, 68): ");
         switch (tasks)
